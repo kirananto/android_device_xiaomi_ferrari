@@ -1,7 +1,7 @@
 [
   {
     "remote":      "github",
-    "repository":  "dh-harald/android_kernel_xiaomi_ferrari",
+    "repository":  "https://github.com/kirananto/RAZORFERRARI",
     "target_path": "kernel/xiaomi/ferrari",
     "revision":    "cm-12.1"
   },
